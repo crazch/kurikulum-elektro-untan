@@ -1,0 +1,13 @@
+title: Kurikulum Teknik Elektro UNTAN
+description: Daftar mata kuliah per semester Program Studi Teknik Elektro, Fakultas Teknik, Universitas Tanjungpura (UNTAN) Pontianak
+lang: id
+url: https://crazch.github.io
+baseurl: /kurikulum-elektro-untan
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
