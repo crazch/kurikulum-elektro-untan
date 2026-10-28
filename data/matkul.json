@@ -1,0 +1,1252 @@
+[
+  {
+    "kode": "TKE-103",
+    "nama": "Fisika Dasar I",
+    "sks": 3,
+    "semester": 1,
+    "jenis": "W",
+    "prasyarat": [],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TK-101",
+    "nama": "Matematika I",
+    "sks": 3,
+    "semester": 1,
+    "jenis": "W",
+    "prasyarat": [],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "MKWU1",
+    "nama": "Agama",
+    "sks": 3,
+    "semester": 1,
+    "jenis": "W",
+    "prasyarat": [],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "UMG-106",
+    "nama": "Bahasa Inggris",
+    "sks": 3,
+    "semester": 1,
+    "jenis": "W",
+    "prasyarat": [],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "MKWU2",
+    "nama": "Pancasila",
+    "sks": 2,
+    "semester": 1,
+    "jenis": "W",
+    "prasyarat": [],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKE-105",
+    "nama": "Elektrokimia",
+    "sks": 2,
+    "semester": 1,
+    "jenis": "W",
+    "prasyarat": [],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKE-107",
+    "nama": "Pengantar Elektroteknik",
+    "sks": 2,
+    "semester": 1,
+    "jenis": "W",
+    "prasyarat": [],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKE-111",
+    "nama": "Algoritma dan Pemrograman",
+    "sks": 2,
+    "semester": 1,
+    "jenis": "W",
+    "prasyarat": [],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKE-100",
+    "nama": "Matematika II",
+    "sks": 3,
+    "semester": 2,
+    "jenis": "W",
+    "prasyarat": [
+      "TK-101"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKE-102",
+    "nama": "Fisika Dasar II",
+    "sks": 3,
+    "semester": 2,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-103"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKE-110",
+    "nama": "Instrumen dan Pengukuran",
+    "sks": 3,
+    "semester": 2,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-103"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKE-116",
+    "nama": "Rangkaian Listrik I",
+    "sks": 3,
+    "semester": 2,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-103",
+      "TK-101"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKE-114",
+    "nama": "Menggambar Elektroteknik",
+    "sks": 2,
+    "semester": 2,
+    "jenis": "W",
+    "prasyarat": [],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "MKWU3",
+    "nama": "Kewarganegaraan",
+    "sks": 2,
+    "semester": 2,
+    "jenis": "W",
+    "prasyarat": [],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "MKWU4",
+    "nama": "Bahasa Indonesia",
+    "sks": 2,
+    "semester": 2,
+    "jenis": "W",
+    "prasyarat": [],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKE-205",
+    "nama": "Matematika Teknik I",
+    "sks": 3,
+    "semester": 3,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-100"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKE-217",
+    "nama": "Dasar Sistem Digital",
+    "sks": 3,
+    "semester": 3,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-107"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKE-219",
+    "nama": "Rangkaian Listrik II",
+    "sks": 3,
+    "semester": 3,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-116",
+      "TKE-100"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKE-201",
+    "nama": "Konsep Teknologi",
+    "sks": 2,
+    "semester": 3,
+    "jenis": "W",
+    "prasyarat": [],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKE-203",
+    "nama": "Probabilitas dan Statistik",
+    "sks": 2,
+    "semester": 3,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-100"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKE-211",
+    "nama": "Dasar Konversi Energi",
+    "sks": 2,
+    "semester": 3,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-116",
+      "TKE-102"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKE-213",
+    "nama": "Dasar Telekomunikasi",
+    "sks": 2,
+    "semester": 3,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-116"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKE-215",
+    "nama": "Dasar Elektronika",
+    "sks": 2,
+    "semester": 3,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-116"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKE-200",
+    "nama": "Matematika Teknik II",
+    "sks": 3,
+    "semester": 4,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-205"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKE-210",
+    "nama": "Metode Numerik",
+    "sks": 3,
+    "semester": 4,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-111",
+      "TKE-205"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKE-212",
+    "nama": "Medan Elektromagnetik",
+    "sks": 3,
+    "semester": 4,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-102",
+      "TKE-205"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKE-216",
+    "nama": "Dasar Sistem Kendali",
+    "sks": 3,
+    "semester": 4,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-219",
+      "TKE-205"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "UMG-105",
+    "nama": "Ilmu Kealamandasar (IKD)",
+    "sks": 3,
+    "semester": 4,
+    "jenis": "W",
+    "prasyarat": [],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKE-214",
+    "nama": "Sistem Linier",
+    "sks": 2,
+    "semester": 4,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-219",
+      "TKE-205"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKE-218",
+    "nama": "Metodologi Penelitian Teknologi",
+    "sks": 2,
+    "semester": 4,
+    "jenis": "W",
+    "prasyarat": [],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKK-323",
+    "nama": "Pengantar Sistem Cerdas",
+    "sks": 3,
+    "semester": 5,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-111",
+      "TKE-203"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKK-335",
+    "nama": "Sistem Telekomunikasi",
+    "sks": 3,
+    "semester": 5,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-213",
+      "TKE-214"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKK-321",
+    "nama": "Optimisasi",
+    "sks": 3,
+    "semester": 5,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-210"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-331",
+    "nama": "Teknik Tegangan Tinggi",
+    "sks": 3,
+    "semester": 5,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-212"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-333",
+    "nama": "Transmisi Daya Listrik",
+    "sks": 3,
+    "semester": 5,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-219",
+      "TKE-211"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKK-331",
+    "nama": "Elektronika I",
+    "sks": 2,
+    "semester": 5,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-215"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKK-333",
+    "nama": "Sistem Kendali Non Linier",
+    "sks": 2,
+    "semester": 5,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-216"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKK-337",
+    "nama": "Pemodelan dan Simulasi",
+    "sks": 2,
+    "semester": 5,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-210",
+      "TKE-214"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKK-339",
+    "nama": "Arsitektur Sistem Komputer",
+    "sks": 2,
+    "semester": 5,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-217"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-321",
+    "nama": "Medan Elektromagnetik II",
+    "sks": 2,
+    "semester": 5,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-212"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-323",
+    "nama": "Ekonomi Teknik",
+    "sks": 2,
+    "semester": 5,
+    "jenis": "W",
+    "prasyarat": [],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-325",
+    "nama": "Perpindahan Kalor",
+    "sks": 2,
+    "semester": 5,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-102"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-327",
+    "nama": "Rekayasa Sistem",
+    "sks": 2,
+    "semester": 5,
+    "jenis": "W",
+    "prasyarat": [],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-335",
+    "nama": "Pengukuran Sistem Tenaga",
+    "sks": 2,
+    "semester": 5,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-110",
+      "TKE-211"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-337",
+    "nama": "Mesin-Mesin Listrik I",
+    "sks": 2,
+    "semester": 5,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-211",
+      "TKE-219"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKK-320",
+    "nama": "Sistem Pengolahan Sinyal",
+    "sks": 3,
+    "semester": 6,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-214"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKK-330",
+    "nama": "Komponen Sistem Kendali",
+    "sks": 3,
+    "semester": 6,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-216"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKK-334",
+    "nama": "Sistem Mikroprosesor",
+    "sks": 3,
+    "semester": 6,
+    "jenis": "W",
+    "prasyarat": [
+      "TKK-339"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKK-336",
+    "nama": "Sistem Kendali Multivariabel",
+    "sks": 3,
+    "semester": 6,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-216"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-324",
+    "nama": "Elektronika Daya",
+    "sks": 3,
+    "semester": 6,
+    "jenis": "W",
+    "prasyarat": [
+      "TKK-331"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-336",
+    "nama": "Sistem Distribusi",
+    "sks": 3,
+    "semester": 6,
+    "jenis": "W",
+    "prasyarat": [
+      "TTL-333"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKK-322",
+    "nama": "Jaringan Komputer",
+    "sks": 2,
+    "semester": 6,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-213"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKK-332",
+    "nama": "Jaringan Telekomunikasi",
+    "sks": 2,
+    "semester": 6,
+    "jenis": "W",
+    "prasyarat": [
+      "TKK-335"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKK-338",
+    "nama": "Elektronika II",
+    "sks": 2,
+    "semester": 6,
+    "jenis": "W",
+    "prasyarat": [
+      "TKK-331"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-320",
+    "nama": "Metode Optimisasi",
+    "sks": 2,
+    "semester": 6,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-210"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-322",
+    "nama": "Bahan-Bahan Listrik",
+    "sks": 2,
+    "semester": 6,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-102"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-326",
+    "nama": "Teknik Instalasi Listrik",
+    "sks": 2,
+    "semester": 6,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-219"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-330",
+    "nama": "Pembangkit Tenaga Listrik",
+    "sks": 2,
+    "semester": 6,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-211",
+      "TTL-325"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-332",
+    "nama": "Operasi dan Kendali Sistem Tenaga",
+    "sks": 2,
+    "semester": 6,
+    "jenis": "W",
+    "prasyarat": [
+      "TTL-333"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-334",
+    "nama": "Mesin-Mesin Listrik II",
+    "sks": 2,
+    "semester": 6,
+    "jenis": "W",
+    "prasyarat": [
+      "TTL-337"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TEK-431",
+    "nama": "Sistem Kendali Optimal",
+    "sks": 3,
+    "semester": 7,
+    "jenis": "W",
+    "prasyarat": [
+      "TKK-336",
+      "TKK-321"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TEK-433",
+    "nama": "Sistem Kendali Digital",
+    "sks": 3,
+    "semester": 7,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-216",
+      "TKK-320"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TEK-437",
+    "nama": "Robotika",
+    "sks": 3,
+    "semester": 7,
+    "jenis": "W",
+    "prasyarat": [
+      "TKK-336"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TEL-431",
+    "nama": "Sistem Instrumentasi Elektronika",
+    "sks": 3,
+    "semester": 7,
+    "jenis": "W",
+    "prasyarat": [
+      "TKK-338",
+      "TKE-110"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TET-433",
+    "nama": "Antena dan Propagasi",
+    "sks": 3,
+    "semester": 7,
+    "jenis": "W",
+    "prasyarat": [
+      "TTL-321"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-431",
+    "nama": "Analisa Sistem Tenaga",
+    "sks": 3,
+    "semester": 7,
+    "jenis": "W",
+    "prasyarat": [
+      "TTL-333",
+      "TKE-210"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-433",
+    "nama": "Peralatan Tegangan Tinggi",
+    "sks": 3,
+    "semester": 7,
+    "jenis": "W",
+    "prasyarat": [
+      "TTL-331"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TEK-435",
+    "nama": "Kendali Industri",
+    "sks": 2,
+    "semester": 7,
+    "jenis": "W",
+    "prasyarat": [
+      "TKK-330"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TEL-437",
+    "nama": "Perancangan VLSI",
+    "sks": 2,
+    "semester": 7,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-217",
+      "TKK-338"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TET-421",
+    "nama": "Teknologi Informasi",
+    "sks": 2,
+    "semester": 7,
+    "jenis": "W",
+    "prasyarat": [
+      "TKK-322"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TET-431",
+    "nama": "Teknologi GSM",
+    "sks": 2,
+    "semester": 7,
+    "jenis": "W",
+    "prasyarat": [
+      "TKK-332"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-435",
+    "nama": "Elektronika Daya dalam Industri",
+    "sks": 2,
+    "semester": 7,
+    "jenis": "W",
+    "prasyarat": [
+      "TTL-324"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TEK-451",
+    "nama": "Sistem Kendali Adaptif",
+    "sks": 2,
+    "semester": 7,
+    "jenis": "P",
+    "prasyarat": [
+      "TKK-336"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKK-453",
+    "nama": "Perancangan Berbantuan Komputer",
+    "sks": 2,
+    "semester": 7,
+    "jenis": "P",
+    "prasyarat": [
+      "TKE-210"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKK-455",
+    "nama": "Sistem Kendali Stokastik",
+    "sks": 2,
+    "semester": 7,
+    "jenis": "P",
+    "prasyarat": [
+      "TKE-203",
+      "TKE-216"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKK-457",
+    "nama": "Perancangan Instalasi",
+    "sks": 2,
+    "semester": 7,
+    "jenis": "P",
+    "prasyarat": [
+      "TTL-326"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKK-459",
+    "nama": "Perancangan Rangkaian Op-Amp",
+    "sks": 2,
+    "semester": 7,
+    "jenis": "P",
+    "prasyarat": [
+      "TKK-338"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-453",
+    "nama": "Instalasi Tegangan Tinggi",
+    "sks": 2,
+    "semester": 7,
+    "jenis": "P",
+    "prasyarat": [
+      "TTL-331"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-455",
+    "nama": "Teknik Penerangan Buatan",
+    "sks": 2,
+    "semester": 7,
+    "jenis": "P",
+    "prasyarat": [
+      "TTL-326"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-457",
+    "nama": "Keandalan Sistem Tenaga",
+    "sks": 2,
+    "semester": 7,
+    "jenis": "P",
+    "prasyarat": [
+      "TKE-203",
+      "TTL-333"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-459",
+    "nama": "Pembangkit Listrik Non Konvensional",
+    "sks": 2,
+    "semester": 7,
+    "jenis": "P",
+    "prasyarat": [
+      "TTL-330"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-461",
+    "nama": "Manajemen Energi",
+    "sks": 2,
+    "semester": 7,
+    "jenis": "P",
+    "prasyarat": [
+      "TKE-211"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-463",
+    "nama": "Teknik Isolasi Tegangan Tinggi",
+    "sks": 2,
+    "semester": 7,
+    "jenis": "P",
+    "prasyarat": [
+      "TTL-331"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-432",
+    "nama": "Proteksi Sistem Tenaga",
+    "sks": 3,
+    "semester": 8,
+    "jenis": "W",
+    "prasyarat": [
+      "TTL-431"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TEK-430",
+    "nama": "Sistem Waktu Nyata",
+    "sks": 2,
+    "semester": 8,
+    "jenis": "W",
+    "prasyarat": [
+      "TKK-334"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TEK-432",
+    "nama": "Proses Stokastik",
+    "sks": 2,
+    "semester": 8,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-203"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TET-430",
+    "nama": "Sistem Komunikasi Bergerak Seluler",
+    "sks": 2,
+    "semester": 8,
+    "jenis": "W",
+    "prasyarat": [
+      "TET-431"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TET-432",
+    "nama": "Elektronika Telekomunikasi",
+    "sks": 2,
+    "semester": 8,
+    "jenis": "W",
+    "prasyarat": [
+      "TKK-338",
+      "TKK-335"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TET-434",
+    "nama": "Sistem Komunikasi Terestrial dan Satelit",
+    "sks": 2,
+    "semester": 8,
+    "jenis": "W",
+    "prasyarat": [
+      "TET-433",
+      "TKK-335"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-430",
+    "nama": "Pembumian Sistem Tenaga",
+    "sks": 2,
+    "semester": 8,
+    "jenis": "W",
+    "prasyarat": [
+      "TTL-433"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-434",
+    "nama": "Perancangan Berbantuan Komputer",
+    "sks": 2,
+    "semester": 8,
+    "jenis": "W",
+    "prasyarat": [
+      "TKE-210"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TEL-432",
+    "nama": "Elektronika Daya",
+    "sks": 3,
+    "semester": 8,
+    "jenis": "W",
+    "prasyarat": [
+      "TTL-324"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TEK-452",
+    "nama": "Kendali Logika Fuzzy",
+    "sks": 2,
+    "semester": 8,
+    "jenis": "P",
+    "prasyarat": [
+      "TKK-323"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TEK-454",
+    "nama": "Jaringan Syaraf Tiruan",
+    "sks": 2,
+    "semester": 8,
+    "jenis": "P",
+    "prasyarat": [
+      "TKK-323"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TEK-456",
+    "nama": "Algoritma Genetik",
+    "sks": 2,
+    "semester": 8,
+    "jenis": "P",
+    "prasyarat": [
+      "TKK-323"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TEK-460",
+    "nama": "Perancangan Sistem Otomatik",
+    "sks": 2,
+    "semester": 8,
+    "jenis": "P",
+    "prasyarat": [
+      "TEK-433"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TK-450",
+    "nama": "Kewirausahaan",
+    "sks": 2,
+    "semester": 8,
+    "jenis": "P",
+    "prasyarat": [],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKK-456",
+    "nama": "Pengolahan Citra Digital",
+    "sks": 2,
+    "semester": 8,
+    "jenis": "P",
+    "prasyarat": [
+      "TKK-320"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKK-464",
+    "nama": "Organisasi Sistem Komputer",
+    "sks": 2,
+    "semester": 8,
+    "jenis": "P",
+    "prasyarat": [
+      "TKK-339"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TKK-468",
+    "nama": "Keamanan Data",
+    "sks": 2,
+    "semester": 8,
+    "jenis": "P",
+    "prasyarat": [
+      "TKK-322"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-452",
+    "nama": "Perancangan Sistem Tenaga",
+    "sks": 2,
+    "semester": 8,
+    "jenis": "P",
+    "prasyarat": [
+      "TTL-431"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-454",
+    "nama": "Kendali dan Kestabilan Sistem Tenaga",
+    "sks": 2,
+    "semester": 8,
+    "jenis": "P",
+    "prasyarat": [
+      "TTL-431",
+      "TKE-216"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-456",
+    "nama": "Perancangan Mesin Listrik",
+    "sks": 2,
+    "semester": 8,
+    "jenis": "P",
+    "prasyarat": [
+      "TTL-334"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-458",
+    "nama": "Teknologi Kabel Energi",
+    "sks": 2,
+    "semester": 8,
+    "jenis": "P",
+    "prasyarat": [
+      "TTL-322"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  },
+  {
+    "kode": "TTL-460",
+    "nama": "Koordinasi Isolasi",
+    "sks": 2,
+    "semester": 8,
+    "jenis": "P",
+    "prasyarat": [
+      "TTL-433"
+    ],
+    "prasyarat_status": "perkiraan",
+    "konsentrasi": ""
+  }
+]
